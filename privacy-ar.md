@@ -1,4 +1,6 @@
-<div dir="rtl" style="font-size: 14px; margin-bottom: 24px; text-align: right;">
+<div dir="rtl" lang="ar" markdown="1">
+
+<div style="font-size: 14px; margin-bottom: 24px; text-align: right;">
   <a href="./">الرئيسية →</a> &nbsp;·&nbsp; <a href="privacy-en">English</a>
 </div>
 
@@ -191,3 +193,5 @@
 ---
 
 *Hajjij — حجيج. سياسة الخصوصية، الإصدار 1.0.*
+
+</div>
