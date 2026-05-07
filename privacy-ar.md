@@ -1,5 +1,5 @@
-<div align="left" style="font-size: 14px; margin-bottom: 24px;">
-  <a href="./">← Home</a> &nbsp;·&nbsp; <a href="privacy-en">English</a>
+<div dir="rtl" style="font-size: 14px; margin-bottom: 24px; text-align: right;">
+  <a href="./">الرئيسية →</a> &nbsp;·&nbsp; <a href="privacy-en">English</a>
 </div>
 
 # سياسة الخصوصية — تطبيق حجيج (Hajjij)
