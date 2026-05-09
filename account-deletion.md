@@ -17,7 +17,7 @@ title: Hajjij — Account & Data Deletion
 
 To request deletion of your **Hajjij** account and all data associated with it:
 
-1. **Send an email** to **`privacy@hajjij.example`** from the **same email address** linked to your Hajjij account.
+1. **Send an email** to **`hajjijatgp@gmail.com`** from the **same email address** linked to your Hajjij account.
 2. **Subject line:** `Account Deletion Request — [your username]`
 3. We will verify your identity and process your request within **30 days**.
 4. You will receive an **email confirmation** once deletion is complete.
@@ -72,7 +72,7 @@ For full details, see our [Privacy Policy](privacy-en).
 
 For deletion requests or any privacy-related question:
 
-- **Email:** `privacy@hajjij.example`
+- **Email:** `hajjijatgp@gmail.com`
 - **Response time:** within 10 business days
 
 ---
@@ -90,7 +90,7 @@ For deletion requests or any privacy-related question:
 
 لطلب حذف حسابك في **حجيج (Hajjij)** وكل البيانات المرتبطة به:
 
-1. **أرسل بريداً إلكترونياً** إلى **`privacy@hajjij.example`** من **نفس البريد الإلكتروني** المرتبط بحسابك في التطبيق.
+1. **أرسل بريداً إلكترونياً** إلى **`hajjijatgp@gmail.com`** من **نفس البريد الإلكتروني** المرتبط بحسابك في التطبيق.
 2. **عنوان الرسالة:** `طلب حذف الحساب — [اسم المستخدم]`
 3. سنتحقق من هويتك ومعالجة طلبك خلال **30 يوماً** كحد أقصى.
 4. ستصلك رسالة **تأكيد بالبريد الإلكتروني** عند اكتمال عملية الحذف.
